@@ -1,12 +1,12 @@
 #header{
-    min-height: 100px;
+    min-height: 10%;
 }
 body{
-    min-height: 100vh;
+    min-height: 90%;
     margin-top: 3%;
 }
 #footer{
-    min-height: 100px;
+    min-height: 10%;
     margin-top: 3%;
 }
 #header, #body, #footer{
