@@ -16,3 +16,11 @@ body{
     margin-left: 10%;
     margin-right: 10%;
 }
+@viewport{
+    width: extend-to-zoom;
+    zoom:1.0;
+}
+@-ms-viewport{
+    width: extend-to-zoom;
+    zoom:1.0;
+}
